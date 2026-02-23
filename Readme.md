@@ -1,0 +1,9 @@
+### Hi there 👋
+* 👂 My name is Sudhir
+* 🔭 I’m currently working on a personal project with Tanstack + NestJS.
+* 🌱 I’m currently learning langchain
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 📫 How to reach me: [...](https://www.linkedin.com/in/sudhir-meher/)
+* ❤️ I love 🕹️ gaming | 🚴‍♂️road cycling | anime
+* ⚡ Fun fact: ...
