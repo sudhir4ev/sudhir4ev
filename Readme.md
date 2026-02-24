@@ -1,14 +1,20 @@
-<div align="center">
+# Hello! 👋 I am Sudhir!
 
-<h2>Hello! 👋 I am Sudhir!</h4>
-<p><em>I am a software engineer with experience building scalable web and mobile apps. I have led engineering teams and built high-impact systems. I am fluent in JavaScript, TypeScript, and React. I am exploring AI model to better manage my efforts on things that matter more. My background includes leadership in fintech, e-commerce, and enterprise projects, with a focus on front-end development and systems design.</em></p>
+I am a software engineer with experience building scalable web and mobile apps. I have led engineering teams and built
+high-impact systems. I am fluent in JavaScript, TypeScript, and React.   
+My background includes leadership in fintech, e-commerce, and enterprise projects, with a focus on front-end development 
+and systems design.
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/sudhir-meher)
-[![GitHub followers](https://img.shields.io/github/followers/sudhir4ev?label=Follow&style=social)](https://github.com/sudhir4ev)
-
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://www.linkedin.com/in/sudhir-meher">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedIn&logoColor=white" alt="LinkedIn Follow" />
+  </a>
+  <a href="https://github.com/sudhir4ev">
+    <img src="https://img.shields.io/github/followers/sudhir4ev?label=Follow&style=social" alt="GitHub followers" />
+  </a>
 </div>
 
-----
+---
 
 ## Intro
 
@@ -26,19 +32,17 @@
 
 🔭 I’m currently working on a personal project with Tanstack + NestJs + Keycloak + Tailscale + Postgres.
 
-🌱 I’m currently learning AI application development tools like langchain.
+🌱 I’m currently learning 
+- AI application development tools like langchain.
+- Data Pipeline development
 
 🔬 Specialties:
 
 - Full-Stack Development (React - Expert, Typescript - Expert, Python - Beginner, SQL - Beginner)
-- Data Pipeline development - Beginner
-- AI Application development - Beginner
 
 ❤️ I love 🕹️ gaming | 🚴‍♂️road cycling | anime
 
-🤝 Let's connect and explore how we can drive technological advancement together! [https://www.linkedin.com/in/sudhir-meher/](https://www.linkedin.com/in/sudhir-meher/)
-
-----
+---
 
 ## Skills
 
