@@ -18,7 +18,7 @@
 
 🌟 Key Highlights:
 
-- Led frontend landscape in a MNC
+- Led frontend landscape revamp in a MNC
 - Engineered data solutions processing millions transactions to extract business intelligence
 
 🎯 My Mission: Empower businesses through cutting-edge technology and customer-centric innovation
