@@ -42,9 +42,8 @@
 
 ## Skills
 
-<p align="center">
-  
-![My Skills](https://skillicons.dev/icons?i=react,nestjs,ansible,bash,cloudflare,devto,docker,express,figma,git,github,githubactions,grafana,graphql,html,linux,md,nodejs,postgres,prometheus,regex,sass,supabase,sentry,svg,tailwind,vite,rollupjs,vscode,vue,webpack,django,npm,prisma&theme=light)
+<p style="max-width: 640px;">
+  <img src="https://skillicons.dev/icons?i=react,nestjs,ansible,bash,cloudflare,devto,docker,express,figma,git,github,githubactions,grafana,graphql,html,linux,md,nodejs,postgres,prometheus,regex,sass,supabase,sentry,svg,tailwind,vite,rollupjs,vscode,vue,webpack,django,npm,prisma&theme=light" alt="My Skills" />
 </p>
 
 ---
