@@ -19,6 +19,7 @@
 🌟 Key Highlights:
 
 - Led frontend landscape revamp in a MNC
+- Led mission-critical sales systems designed to handle massive traffic and high volume transactions
 - Engineered data solutions processing millions transactions to extract business intelligence
 
 🎯 My Mission: Empower businesses through cutting-edge technology and customer-centric innovation
