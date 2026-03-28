@@ -20,20 +20,18 @@ and systems design.
 
 🧠 Passionate about development toolchains and AI
 
-💡 Expert in building high-impact products that balance vision with pragmatic execution
-
 🌟 Key Highlights:
 
 - Led frontend landscape revamp in a MNC
 - Led mission-critical sales systems designed to handle massive traffic and high volume transactions
 - Engineered data solutions processing millions transactions to extract business intelligence
 
-🎯 My Mission: Empower businesses through cutting-edge technology and customer-centric innovation
+🎯 My Mission: Empower businesses through technology and innovation
 
 🔭 I’m currently working on a personal project with Tanstack + NestJs + Keycloak + Tailscale + Postgres.
 
 🌱 I’m currently learning 
-- AI application development tools like langchain.
+- Code vulenrability service with LLM assisted Impact analysis and exposure
 - Data Pipeline development
 
 🔬 Specialties:
